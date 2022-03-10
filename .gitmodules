@@ -1,0 +1,15 @@
+[submodule "libs/base64"]
+	path = libs/base64
+	url = https://github.com/KaruroChori/base64
+[submodule "libs/json"]
+	path = libs/json
+	url = https://github.com/nlohmann/json
+[submodule "libs/cxxopts"]
+	path = libs/cxxopts
+	url = https://github.com/jarro2783/cxxopts
+[submodule "libs/json-schema-validator"]
+	path = libs/json-schema-validator
+	url = https://github.com/KaruroChori/json-schema-validator
+[submodule "libs/cpr"]
+	path = libs/cpr
+	url = https://github.com/libcpr/cpr

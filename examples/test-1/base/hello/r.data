@@ -1,0 +1,2 @@
+A string, but it could be any kind of binary file.
+At the end of the day all its content is translated in base64 and included in the json file.

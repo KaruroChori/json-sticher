@@ -1,0 +1,3 @@
+# General documentation fragment
+This whole structure is handled as a tree in a notebook style.
+As such it is possible to integrate documentation and meta information for each json fragment.
