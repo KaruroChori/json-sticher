@@ -1,0 +1,13 @@
+{
+    "interface-1":{
+        "language": ["c++", "20"],
+        "deps": ["iostream","cstdlib"],
+        "@plug": "event_start",
+        "@unplug": "event_end",
+        "head": "[extern]",
+        "tail-inline": "[extern]",
+        "symbols": "[extern]",
+        "impl": "[extern]"
+    },
+    "pattern-1":"[import]"
+}

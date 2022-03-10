@@ -1,0 +1,12 @@
+{
+    "PI":{
+        "stype": "constant",
+        "default": 3.1415
+    },
+    "var-1":{
+        "stype": "variable",
+        "optional": true,
+        "type": "long long double",
+        "default": 3.1226
+    }
+}
